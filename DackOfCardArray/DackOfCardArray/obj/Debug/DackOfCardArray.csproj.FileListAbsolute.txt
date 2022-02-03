@@ -1,0 +1,8 @@
+C:\Users\ArrayDacCard\DackOfCardArray\DackOfCardArray\bin\Debug\DackOfCardArray.exe.config
+C:\Users\ArrayDacCard\DackOfCardArray\DackOfCardArray\bin\Debug\DackOfCardArray.exe
+C:\Users\ArrayDacCard\DackOfCardArray\DackOfCardArray\bin\Debug\DackOfCardArray.pdb
+C:\Users\ArrayDacCard\DackOfCardArray\DackOfCardArray\obj\Debug\DackOfCardArray.csproj.AssemblyReference.cache
+C:\Users\ArrayDacCard\DackOfCardArray\DackOfCardArray\obj\Debug\DackOfCardArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\ArrayDacCard\DackOfCardArray\DackOfCardArray\obj\Debug\DackOfCardArray.csproj.CoreCompileInputs.cache
+C:\Users\ArrayDacCard\DackOfCardArray\DackOfCardArray\obj\Debug\DackOfCardArray.exe
+C:\Users\ArrayDacCard\DackOfCardArray\DackOfCardArray\obj\Debug\DackOfCardArray.pdb
